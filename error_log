@@ -1,0 +1,15 @@
+[06-Nov-2023 23:29:49 UTC] PHP Warning:  include(shared.inc.php): Failed to open stream: No such file or directory in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/index.php on line 2
+[06-Nov-2023 23:29:49 UTC] PHP Warning:  include(): Failed opening 'shared.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/index.php on line 2
+[06-Nov-2023 23:29:49 UTC] PHP Warning:  Undefined variable $nav in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/index.php on line 7
+[06-Nov-2023 23:29:49 UTC] PHP Warning:  Undefined variable $footer in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/index.php on line 11
+[06-Nov-2023 23:29:59 UTC] PHP Warning:  Undefined variable $footer in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/index.php on line 11
+[07-Nov-2023 22:27:38 UTC] PHP Parse error:  syntax error, unexpected identifier "button" in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/shared.php on line 22
+[07-Nov-2023 22:27:55 UTC] PHP Parse error:  syntax error, unexpected identifier "fa" in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/shared.php on line 23
+[15-Nov-2023 19:22:00 UTC] PHP Parse error:  syntax error, unexpected identifier "icon" in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/shared.php on line 116
+[30-Nov-2023 17:27:53 UTC] PHP Fatal error:  Allowed memory size of 205520896 bytes exhausted (tried to allocate 12288 bytes) in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/cookies_info_popup.php on line 69
+[30-Nov-2023 17:28:09 UTC] PHP Fatal error:  Allowed memory size of 205520896 bytes exhausted (tried to allocate 12288 bytes) in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/cookies_info_popup.php on line 69
+[30-Nov-2023 17:29:04 UTC] PHP Fatal error:  Allowed memory size of 205520896 bytes exhausted (tried to allocate 12288 bytes) in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/cookies_info_popup.php on line 69
+[30-Nov-2023 17:29:06 UTC] PHP Fatal error:  Allowed memory size of 205520896 bytes exhausted (tried to allocate 12288 bytes) in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/cookies_info_popup.php on line 69
+[30-Nov-2023 17:30:29 UTC] PHP Fatal error:  Allowed memory size of 205520896 bytes exhausted (tried to allocate 12288 bytes) in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/cookies_info_popup.php on line 69
+[30-Nov-2023 17:30:43 UTC] PHP Fatal error:  Allowed memory size of 205520896 bytes exhausted (tried to allocate 12288 bytes) in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/cookies_info_popup.php on line 69
+[30-Nov-2023 17:30:55 UTC] PHP Fatal error:  Allowed memory size of 205520896 bytes exhausted (tried to allocate 12288 bytes) in /home/lvn0213/ctec4309.lvn0213.uta.cloud/candle/cookies_info_popup.php on line 69
